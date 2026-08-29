@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Autopilot</string>
+    <string name="accessibility_service_description">Allows Autopilot to tap a target you explicitly configure after screen analysis confirms a price match.</string>
+    <string name="notification_channel_name">Autopilot monitoring</string>
+    <string name="notification_channel_description">Shows the current Autopilot monitoring state.</string>
+    <string name="notification_title">Autopilot is monitoring</string>
+    <string name="notification_stopped">Autopilot stopped</string>
+    <string name="notification_paused">Autopilot paused</string>
+    <string name="permission_accessibility_title">Allow controlled taps</string>
+    <string name="permission_accessibility_body">Turn on Aalam in Android Accessibility settings. Android requires you to approve this access manually.</string>
+    <string name="permission_overlay_title">Allow floating controls</string>
+    <string name="permission_overlay_body">Allow Aalam to display its small vertical control panel above other apps.</string>
+    <string name="open_settings">OPEN SETTINGS</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="not_now">NOT NOW</string>
+</resources>
