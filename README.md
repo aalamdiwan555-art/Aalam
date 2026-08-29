@@ -40,4 +40,4 @@ The app does not bypass permission dialogs, inspect credentials, or click
 outside a validated OCR target. A low-confidence result never triggers an
 action. Screen frames are processed in memory and are not intentionally
 persisted. Monitoring stops when the service is stopped or the process is
-terminated; it does not silently resume after process death.
+terminated; it does not silently resume after process death,
